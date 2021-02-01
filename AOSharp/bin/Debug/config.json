@@ -1,0 +1,147 @@
+{
+  "Plugins": {
+    "EB917304A83D9DA759B6A074BF24FEBF": {
+      "Name": "MultiboxHelper",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\MultiboxHelper\\bin\\Debug\\MultiboxHelper.dll"
+    },
+    "B2636E32FFF24717A0EEE4966EB5E526": {
+      "Name": "CombatHandler.Doc",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.Doc.dll"
+    },
+    "71FAF6EA71B8B7E4908677DF56ED89D2": {
+      "Name": "CombatHandler.Keeper",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.Keeper.dll"
+    },
+    "3C65B495623C77216C64A39142AD26BF": {
+      "Name": "CombatHandler.Soldier.Properties",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.Soldier.dll"
+    },
+    "8D41505A172C307F156D892D7F1C9219": {
+      "Name": "CombatHandler.Engi",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.Engi.dll"
+    },
+    "A389D2544540D0547B49C59D40438AA7": {
+      "Name": "CombatHandler.Enf",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.Enf.dll"
+    },
+    "E3E38E00E9639B2190518F67CF390FA6": {
+      "Name": "CombatHandler.Crat",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.Crat.dll"
+    },
+    "63C6801B59DE646DFEE6763B33AEB582": {
+      "Name": "APFBuddy",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp.bots\\APFBuddy\\bin\\Debug\\APFBuddy.dll"
+    },
+    "89508AA46956405873E297CE30620E2E": {
+      "Name": "DummyBot",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp.bots\\DummyBot\\bin\\Debug\\DummyBot.dll"
+    },
+    "24519300A606D57279A89036C09161CA": {
+      "Name": "InfBuddy",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp.bots\\InfBuddy\\bin\\Debug\\InfBuddy.dll"
+    },
+    "36E7DC56399AF5DCFCB9F9ACD8F027BE": {
+      "Name": "CombatHandler.NT",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\bin\\Debug\\CombatHandler.NT.dll"
+    },
+    "C0D4BDC62359D62C810D449B3281458B": {
+      "Name": "CombatHandler.Doc",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automationtest\\bin\\Debug\\CombatHandler.Doc.dll"
+    },
+    "C7CAD2B831E7F031C95D97AAE0247AB8": {
+      "Name": "CombatHandler.Shade",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automationtest\\bin\\Debug\\CombatHandler.Shade.dll"
+    },
+    "78449631C871C972572446C1C56485D7": {
+      "Name": "Radar",
+      "Version": "1.0.0.0",
+      "Path": "C:\\Users\\yalai\\source\\repos\\aosharp-automation\\Radar\\bin\\Debug\\Radar.dll"
+    }
+  },
+  "Profiles": [
+    {
+      "Name": "Eabha",
+      "EnabledPlugins": [
+        "34A243B9C0D078313674C1D402097B5E",
+        "B2636E32FFF24717A0EEE4966EB5E526",
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Ahffrait",
+      "EnabledPlugins": [
+        "71FAF6EA71B8B7E4908677DF56ED89D2"
+      ]
+    },
+    {
+      "Name": "Komalin",
+      "EnabledPlugins": [
+        "8D41505A172C307F156D892D7F1C9219"
+      ]
+    },
+    {
+      "Name": "Tankchewie",
+      "EnabledPlugins": [
+        "A389D2544540D0547B49C59D40438AA7",
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Naibsel",
+      "EnabledPlugins": [
+        "CD7C0C39C4BAB16F60CD2A9DFBDC3C00",
+        "E3E38E00E9639B2190518F67CF390FA6",
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Desire",
+      "EnabledPlugins": [
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Cognoscenti",
+      "EnabledPlugins": [
+        "36E7DC56399AF5DCFCB9F9ACD8F027BE"
+      ]
+    },
+    {
+      "Name": "Neon",
+      "EnabledPlugins": [
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Effort",
+      "EnabledPlugins": [
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Kewt",
+      "EnabledPlugins": [
+        "EB917304A83D9DA759B6A074BF24FEBF"
+      ]
+    },
+    {
+      "Name": "Kesiera",
+      "EnabledPlugins": [
+        "78449631C871C972572446C1C56485D7"
+      ]
+    }
+  ]
+}

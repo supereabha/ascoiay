@@ -1,0 +1,3 @@
+2021-01-31 04:21:58.323 -04:00 [ERR] Failed to inject bootloader. 
+
+STATUS_INTERNAL_ERROR: Unknown error in injected C++ completion routine. (Code: 15)
